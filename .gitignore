@@ -1,3 +1,2 @@
-*~
-ProjectExpressCRUD/data/**/*
-ProjectExpressCRUD/node-modules/**/*
+data
+node-modules
