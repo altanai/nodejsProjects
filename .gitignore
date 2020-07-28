@@ -1,2 +1,8 @@
+express+mongoDB+Jade/node_modules/
+express+mongoDB+Jade/package-lock.json
+
+express+mongoDB+RESTservices+Jade/node_modules/
+express+mongoDB+RESTservices+Jade/package-lock.json
+
 data
 node-modules
